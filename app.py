@@ -240,7 +240,6 @@ def dashboard():
 
                 } catch (error) {
                     console.error('Error loading data:', error);
-                    alert('Error loading data. Please check console.');
                 }
             }
 
